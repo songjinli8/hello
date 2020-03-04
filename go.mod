@@ -1,4 +1,4 @@
-module example.com/hello
+module github.com/songjinli8/hello
 
 go 1.13
 
